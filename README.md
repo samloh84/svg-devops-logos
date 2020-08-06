@@ -31,3 +31,12 @@ All trademarks are the property of their respective owners.
 
 ### Microsoft Windows
 * https://news.microsoft.com/imagegallery/?filter_cats%5B%5D=2333&filter_cats%5B%5D=
+
+### AWS
+* https://aws.amazon.com/architecture/icons/
+
+### Azure
+* https://docs.microsoft.com/en-us/azure/architecture/icons/
+
+### GCP
+* https://cloud.google.com/icons
